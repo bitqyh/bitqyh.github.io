@@ -10,7 +10,7 @@
 
 
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/bitqyh/bitqyh.github.io/)
 [Get Started](README.md)
 
 <!-- ![](./images/背景.jpg) -->
