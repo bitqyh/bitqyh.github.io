@@ -42,3 +42,9 @@
 感觉有点空，没什么好放的，放张图辟邪[.](./images/朱总.md)
 
   <img src="images/镇楼.jpg" alt="镇楼" style="zoom:80%;" />
+
+
+
+**顺便放个联系方式，有什么疏漏欢迎指出（虽然也不一定改0w0）** 
+
+###### <img src="images/微信.jpg" alt="微信" style="zoom:25%;" />
